@@ -1,0 +1,4 @@
+('Gaurav', 'Shiv Kumar ', 21, 'Male ')
+('FGGJHDJ', 'SFJYYJ', 21, 'JHTRH')
+('SHUBHAM', 'SHIV ', 21, 'MALE')
+('cttj', 'fgdjdgj', 5, 'fgjg')
